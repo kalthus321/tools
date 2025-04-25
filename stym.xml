@@ -1,0 +1,18 @@
+<rss version="2.0">
+<channel>
+<title>深田咏美</title>
+<link>https://your-website.com</link>
+<description>
+
+</description>
+<item>
+<title>Example Item</title>
+<link>https://your-website.com/example-item</link>
+<description>
+<!-- 1、内容 -->
+</description>
+<pubDate>2024-10-17 00:00:00</pubDate>
+</item>
+<!-- 3、RSS 标签 -->
+</channel>
+</rss>
